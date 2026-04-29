@@ -171,17 +171,9 @@ Profit Margin = SUM(ecommerce_data[profit_per_order]) / SUM(ecommerce_data[sales
 ## 👤 Author
 
 **Felix Onyango**
-Data Analyst · Power BI · SQL · Python
+Data Analyst · Power BI · SQL · Python . SPSS . STATA . R . TABLEAU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/felixonyango)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://www.linkedin.com/in/felix-onyango-2018a5305/]).
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/felixonyango)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 *⭐ If you found this project helpful, give it a star — it helps others discover it!*
