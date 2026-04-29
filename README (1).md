@@ -1,7 +1,7 @@
 # 📊 E-Commerce Sales Dashboard — Power BI
 
 ![-E-Commerce-Sales-Dashboard-Case-Study-Power-BI-Project
-](E-Commerce Dashboard.png)
+](E-Commerce%20Dashboard.png)
 
 > *"Sales dropped 0.83% YoY — but profit grew 4.50%. That's not a red flag. That's a pricing strategy working silently in the background."*
 
